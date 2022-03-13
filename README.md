@@ -1,6 +1,6 @@
 # flappy_Bird
 
-[logo]
+<img src="imagens/print-flappyBird01.png" style="border-radius:20px;">
 
 
 Here are the technologies used in this project.
@@ -59,23 +59,16 @@ The game starts as soon as the page loads..<br>
 > The same button is used to pause and play the video, changing, in addition to its functionality, the icon and verifying that autoplay is activated to suit it.<br>
 
 > Move the bird through the pipes without letting it hit any. press any keyboard key to make it fly.
-> 
-
-
-[girf]
-
-[//]: # "https://gifs.com/gif/inputrange2-1-MZN4O3 ---> link do gif otimizado alternativo -----> ![gif Input Range](https://j.gifs.com/MZN4O3.gif)<br>"
-
-	
-	
-[img]
-
-
-	
- 
+<img src="https://j.gifs.com/k2j8GK.gif">
  
 ## Features
- 
+ * FlappyBird game
+	- Collision detection
+	- score marker
+ * Responsive
+	- Desktop version: ON
+	- Mobile version: OFF
+
 
 
  
