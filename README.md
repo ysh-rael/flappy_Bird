@@ -50,7 +50,7 @@ under development
 	```
 
 * To run the project:
->    [click here](https://ysh-rael.github.io/input-range/)
+>    [click here](https://ysh-rael.github.io/flappy_Bird/)
  
 ## How to use
  
