@@ -29,12 +29,11 @@ function FlappyBird() {
         })
     this.start = () => {
         //loop do jogo
-        var c = false
         document.keyPress = (e)=>alert(e.key)
         const temporizador = setInterval(() => {
             barreiras.animar()
             passaro.animar()
-           if( Colidiu(passaro, barreiras) && !c ) clearInterval(temporizador)
+           // if( Colidiu(passaro, barreiras) ) clearInterval(temporizador)
         },20)
     }
 }
