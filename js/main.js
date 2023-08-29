@@ -33,7 +33,7 @@ function FlappyBird() {
         const temporizador = setInterval(() => {
             barreiras.animar()
             passaro.animar()
-           // if( Colidiu(passaro, barreiras) ) clearInterval(temporizador)
+           if( Colidiu(passaro, barreiras) ) clearInterval(temporizador)
         },20)
     }
 }
